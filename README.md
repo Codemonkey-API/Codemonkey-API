@@ -28,7 +28,7 @@ I am a self-taught developer passionate about building high-performance mobile a
 ---
 
 ## 📫 Connect with me
-- **Portfolio**: [Replace with your Vercel Link]
+- **Portfolio**: [https://taffles-dev-git-main-taflins-projects.vercel.app/]
 - **Learning**: Currently deep-diving into Docker and Kubernetes.
 
 "Code is poetry, but the pipeline makes it sing." 🎶
