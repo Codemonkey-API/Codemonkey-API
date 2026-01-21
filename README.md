@@ -1,1 +1,60 @@
-🚀 Hello, I'm Tafadzwa!Full-Stack Engineer | React & React Native | Serverless & DevOps"Code is poetry, but the pipeline makes it sing." 🎶I am a self-taught developer with a "get-it-done" mindset, currently based in South Africa. I specialize in building ultra-fast applications using modern Serverless stacks and Automated pipelines.🛠️ The Tech EcosystemFrontend & MobileServerless & BackendDevOps & InfrastructureReact / React Native / ExpoHono.js (Serverless)GitHub Actions (CI/CD)Tailwind CSS / Framer MotionAWS LambdaVercel / Expo EASSQLite (Offline-first)Node.js / Express / JWTLinux (Pop!_OS)⚡ Engineering HighlightsServerless Scale: Architecting lightweight, high-performance APIs using Hono.js deployed on AWS Lambda for maximum scalability and zero-server overhead.Automated 66s Deployments: Built a custom GitHub Actions pipeline that slashes build-to-deploy times to just 66 seconds on Vercel.Performance Focused: Migrated my entire stack to Pop!_OS to gain total control over the environment and optimize mobile emulation.🏗️ What I’m Building[Habit Grind]: A React Native habit tracker nearing production. It utilizes a robust SQLite architecture and automated release cycles.Infrastructure: Currently mastering Docker and Kubernetes to complement my serverless AWS workflows.📫 Let's ConnectPortfolio: taffles-dev.vercel.appLocation: South Africa 🇿🇦 (Open to Remote / Hybrid)💡 The DevOps Mindset"I don't just build apps; I architect the environment they run in. From Hono.js on Lambda to automated GitHub Actions, I care about the speed of the build and the reliability of the deployment."
+# Tafadzwa — Full-Stack Engineer  
+**React • React Native • Serverless • DevOps**
+
+> *Code is poetry. The pipeline makes it sing.* 🎶
+
+I’m a **self-taught Full-Stack Engineer** based in **South Africa**, focused on building **fast, scalable applications** using **modern serverless architectures** and **automated CI/CD pipelines**.  
+I bring a practical, *get-it-done* mindset and care deeply about **performance, reliability, and developer experience**.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend & Mobile
+- React  
+- React Native / Expo  
+- Tailwind CSS  
+- Framer Motion  
+
+### Backend & Serverless
+- Hono.js (Serverless APIs)  
+- Node.js / Express  
+- AWS Lambda  
+- JWT Authentication  
+- SQLite (Offline-first architectures)
+
+### DevOps & Infrastructure
+- GitHub Actions (CI/CD)  
+- Vercel  
+- Expo EAS  
+- Docker *(in progress)*  
+- Kubernetes *(learning)*  
+
+### Environment
+- Linux (Pop!_OS)
+
+---
+
+## ⚡ Engineering Highlights
+
+### 🚀 Serverless at Scale
+Architect lightweight, high-performance APIs using **Hono.js**, deployed on **AWS Lambda** for:
+- Zero server maintenance  
+- Horizontal scalability  
+- Minimal cold-start overhead  
+
+### ⏱️ Automated 66-Second Deployments
+Designed and implemented a **custom GitHub Actions pipeline** that reduces build-to-production time to **~66 seconds** on Vercel.
+
+### 🔧 Performance-Driven Workflow
+Migrated my entire development environment to **Pop!_OS** for:
+- Full system control  
+- Improved mobile emulation performance  
+- Faster debugging and builds  
+
+---
+
+## 🏗 Current Projects
+
+### **Habit Grind** *(React Native)*
+A production-ready habit tracker focused on consistency and per
