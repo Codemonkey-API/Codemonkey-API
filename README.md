@@ -1,60 +1,128 @@
-# Tafadzwa — Full-Stack Engineer  
-**React • React Native • Serverless • DevOps**
+<div align="center">
 
-> *Code is poetry. The pipeline makes it sing.* 🎶
+# 👋 Tafadzwa  
+### Full-Stack Engineer • React • React Native • Serverless • DevOps
 
-I’m a **self-taught Full-Stack Engineer** based in **South Africa**, focused on building **fast, scalable applications** using **modern serverless architectures** and **automated CI/CD pipelines**.  
-I bring a practical, *get-it-done* mindset and care deeply about **performance, reliability, and developer experience**.
+> **Code is poetry. The pipeline makes it sing.** 🎶
+
+📍 South Africa • 🌍 Open to Remote / Hybrid  
+🔗 [Portfolio](https://taffles-dev.vercel.app)
 
 ---
 
-## 🛠 Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![AWS](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=amazonaws)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+![Linux](https://img.shields.io/badge/Linux-Pop!_OS-FCC624?style=for-the-badge&logo=linux)
 
-### Frontend & Mobile
+</div>
+
+---
+
+## 🧠 About Me
+
+I’m a **self-taught Full-Stack Engineer** focused on building **high-performance applications** using **modern serverless stacks** and **automated deployment pipelines**.
+
+I work comfortably across **frontend, mobile, backend, and DevOps**, caring deeply about **speed, reliability, and clean architecture**.  
+If it ships — it ships **clean**.
+
+---
+
+## ⚙️ Tech Ecosystem
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 Frontend & Mobile
 - React  
 - React Native / Expo  
 - Tailwind CSS  
 - Framer Motion  
 
-### Backend & Serverless
-- Hono.js (Serverless APIs)  
+</td>
+<td width="50%">
+
+### 🧩 Backend & Serverless
+- Hono.js  
 - Node.js / Express  
 - AWS Lambda  
 - JWT Authentication  
-- SQLite (Offline-first architectures)
+- SQLite (Offline-first)
 
-### DevOps & Infrastructure
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚀 DevOps & Infra
 - GitHub Actions (CI/CD)  
 - Vercel  
 - Expo EAS  
-- Docker *(in progress)*  
+- Docker *(learning)*  
 - Kubernetes *(learning)*  
 
-### Environment
-- Linux (Pop!_OS)
+</td>
+<td width="50%">
+
+### 🧑‍💻 Environment
+- Linux (Pop!_OS)  
+- Git & GitHub  
+- Performance-tuned workflow  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## ⚡ Engineering Highlights
 
-### 🚀 Serverless at Scale
-Architect lightweight, high-performance APIs using **Hono.js**, deployed on **AWS Lambda** for:
-- Zero server maintenance  
-- Horizontal scalability  
-- Minimal cold-start overhead  
+🚀 **Serverless Scale**  
+Lightweight APIs built with **Hono.js** deployed on **AWS Lambda** for zero-server overhead and maximum scalability.
 
-### ⏱️ Automated 66-Second Deployments
-Designed and implemented a **custom GitHub Actions pipeline** that reduces build-to-production time to **~66 seconds** on Vercel.
+⏱️ **66-Second Deployments**  
+Custom **GitHub Actions pipelines** that push from commit → production in ~66 seconds.
 
-### 🔧 Performance-Driven Workflow
-Migrated my entire development environment to **Pop!_OS** for:
-- Full system control  
-- Improved mobile emulation performance  
-- Faster debugging and builds  
+🔧 **Performance-First Workflow**  
+Full Linux development environment optimized for mobile emulation, debugging, and CI consistency.
 
 ---
 
-## 🏗 Current Projects
+## 🏗️ Featured Project
 
-### **Habit Grind** *(React Native)*
-A production-ready habit tracker focused on consistency and per
+### 📱 Habit Grind (React Native)
+
+**A production-ready habit tracker built for consistency and performance.**
+
+✨ Features:
+- Offline-first SQLite architecture  
+- Streak tracking & daily validation  
+- Haptic feedback & smooth animations  
+- Automated build & release pipelines  
+
+🟢 Status: **Final polish before production**
+
+---
+
+## 💡 DevOps Philosophy
+
+> *I don’t just build apps — I architect the environments they run in.*
+
+From **serverless APIs** to **automated pipelines**, I optimize for:
+- Fast deployments  
+- Stable production  
+- Developer sanity  
+
+---
+
+## 📫 Let’s Connect
+
+🌐 Portfolio → https://taffles-dev.vercel.app  
+📍 South Africa 🇿🇦  
+💼 Open to Remote / Hybrid roles  
+
+⭐ *If you care about clean systems, fast pipelines, and shipping with confidence — we should talk.*
